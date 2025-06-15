@@ -1,5 +1,5 @@
 # Hashmap:
-This is a simple, modern, and bare-bones linked-list library written in C with the goal of simplicity.
+This is a simple, modern, and barebones linked-list library written in C with the goal of simplicity.
 
 ## Documentation
 Available methods:
